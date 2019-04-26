@@ -6,3 +6,4 @@ zec.slushpool.com
 starcarrentacar.com
 www.jmj.com
 www.rapverse.com
+*.rapverse.com
